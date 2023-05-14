@@ -1,0 +1,21 @@
+{
+  "name": "Test Level",
+  "difficulty": 1,
+  "tileWidth": 10,
+  "tileHeight": 11,
+  "maps": ["map0", "map1"],
+  "door": [6, 2],
+  "player": [3, 4],
+  "entities": {
+    "items": {
+      "regularReward": [
+      ],
+      "bonusReward": [
+      ],
+      "punishment": [
+      ]
+    },
+    "enemies": {
+    }
+  }
+}

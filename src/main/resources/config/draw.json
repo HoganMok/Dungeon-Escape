@@ -1,0 +1,40 @@
+{
+  "debugMode": {
+    "hitbox": {
+      "thickness": 1,
+      "opacity": 0.5
+    },
+    "vector": {
+      "thickness": 3
+    },
+    "colors": {
+      "hitbox": {
+        "sprite": {
+          "r": 0,
+          "g": 255,
+          "b": 255
+        },
+        "tile": {
+          "r": 255,
+          "g": 165,
+          "b": 0
+        }
+      },
+      "velocity": {
+        "r": 0,
+        "g": 255,
+        "b": 0
+      },
+      "acceleration": {
+        "r": 255,
+        "g": 0,
+        "b": 255
+      },
+      "maxVelocity": {
+        "r": 0,
+        "g": 128,
+        "b": 0
+      }
+    }
+  }
+}

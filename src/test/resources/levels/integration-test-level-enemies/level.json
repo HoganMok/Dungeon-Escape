@@ -1,0 +1,69 @@
+{
+  "name": "Test Level",
+  "difficulty": 1,
+  "tileWidth": 5,
+  "tileHeight": 5,
+  "maps": ["map0", "map1"],
+  "door": [16, 2],
+  "player": [1, 1],
+  "entities": {
+    "items": {
+      "regularReward": [
+      ],
+      "bonusReward": [
+      ],
+      "punishment": [
+      ]
+    },
+    "enemies": {
+      "skeleton": [
+        [3,3]
+      ],
+      "terror_2": [
+        [3,3]
+      ],
+      "BEIGE_SQUARE": [
+        [3,3]
+      ],
+      "GREEN_SQUARE": [
+        [3,3]
+      ],
+      "RED_SQUARE": [
+        [3,3]
+      ],
+      "BROWN_SLUDGE": [
+        [3,3]
+      ],
+      "GREEN_SLUDGE": [
+        [3,3]
+      ],
+      "BEIGE_WALKER": [
+        [3,3]
+      ],
+      "CYAN_WALKER": [
+        [3,3]
+      ],
+      "SKULL_MASK": [
+        [3,3]
+      ],
+      "ORC_1": [
+        [3,3]
+      ],
+      "ORC_2": [
+        [3,3]
+      ],
+      "SORCERER": [
+        [3,3]
+      ],
+      "TERROR_1": [
+        [3,3]
+      ],
+      "ANGRY_TOOTH_CHEST": [
+        [3,3]
+      ],
+      "TERROR": [
+        [3,3]
+      ]
+    }
+  }
+}

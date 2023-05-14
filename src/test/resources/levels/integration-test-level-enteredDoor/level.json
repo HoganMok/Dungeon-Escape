@@ -1,0 +1,24 @@
+{
+  "name": "Level 3",
+  "difficulty": 1,
+  "tileWidth": 26,
+  "tileHeight": 21,
+  "maps": ["map0", "map1"],
+  "door": [7, 20],
+  "player": [7,16],
+  "entities": {
+    "items": {
+      "regularReward": [
+        [7,17]
+      ],
+      "bonusReward": [
+      ],
+      "punishment": [
+      ]
+    },
+    "enemies": {
+      "ORC_1": [
+      ]
+    }
+  }
+}

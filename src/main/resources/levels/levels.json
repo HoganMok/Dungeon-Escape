@@ -1,0 +1,14 @@
+{
+  "levelMaxNumber": 5,
+  "tileLayerPriority": {
+    "holes": 0,
+    "floor": 1,
+    "stairs": 3,
+    "carpet": 3,
+    "walls": 4,
+    "darkWalls": 4,
+    "lightWalls": 5,
+    "decorations": 6,
+    "doors": 7
+  }
+}
