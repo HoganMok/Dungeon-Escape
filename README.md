@@ -8,7 +8,7 @@ We made a video instead of doing a tutorial. Here is the video link: https://you
 
 Run the command `mvn site`, then open the html file at `target/site/apidocs/index.html`
 
-## Generating a JAR file
+## Generating a JAR file 
 
 Run the command `mvn clean package`. The JAR file will then be at `target/group-10-game-1.0-SNAPSHOT-jar-with-dependencies.jar`
 
