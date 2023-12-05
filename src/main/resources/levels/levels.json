@@ -1,5 +1,5 @@
 {
-  "levelMaxNumber": 5,
+  "levelMaxNumber": 4,
   "tileLayerPriority": {
     "holes": 0,
     "floor": 1,
